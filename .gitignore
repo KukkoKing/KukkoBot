@@ -1,1 +1,5 @@
-/res/token.txt
+# Telegram token
+/token.txt
+
+# Vim swap files
+.swp
